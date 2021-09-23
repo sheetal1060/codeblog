@@ -1,0 +1,17 @@
+{
+  "parameter":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/CodeBlog",
+    "prod_uri": "mysql://root:@localhost/CodeBlog",
+    "fb_url":"https://facebook.com/codeblog",
+    "tw_url":"https://twitter.com/codeblog",
+    "git_url":"https://github.com/codeblog",
+    "gmail-user":"gungunsheetal01@gmail.com",
+    "gmail-password":"Sheetal@10"
+
+
+
+  }
+
+}
